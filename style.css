@@ -1,0 +1,71 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbg {
+  background: #f3f2f8;
+}
+.jumbotron {
+  background-color: white !important;
+}
+.jambo {
+  text-align: center;
+}
+
+.txthead {
+  font-size: 40px;
+  color: #00003e;
+}
+
+.txthead1 {
+  font-size: 40px;
+  color: #ff0098;
+}
+
+.txthead2 {
+  font-size: 30px;
+  color: #ff0098;
+}
+
+.txthead3 {
+  font-size: 30px;
+  color: #00003e;
+}
+.lead {
+  text-align: center;
+  margin-top: 30px;
+}
+.btn-primary {
+  background-color: #16043c !important;
+}
+
+.details {
+  background: #f3f2f8;
+  text-align: center;
+}
+
+.details-text {
+  font-size: 30px;
+  color: #00003e;
+  display: block;
+}
+.txt1 {
+  display: block;
+}
+.txt2 {
+  justify-content: center;
+  text-align: bottom;
+}
+
+.company-text {
+  width: 100%;
+  padding: 4px;
+  background: #f3f2f8;
+  text-align: center;
+}
+.company-text1 {
+  font-size: 40px;
+  color: #00003e;
+}
